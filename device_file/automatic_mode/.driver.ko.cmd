@@ -1,0 +1,1 @@
+cmd_/home/joswan/Linux_Embedded/device_file/automatic_mode/driver.ko := ld -r -m elf_x86_64  -z max-page-size=0x200000  --build-id  -T ./scripts/module-common.lds -o /home/joswan/Linux_Embedded/device_file/automatic_mode/driver.ko /home/joswan/Linux_Embedded/device_file/automatic_mode/driver.o /home/joswan/Linux_Embedded/device_file/automatic_mode/driver.mod.o;  true

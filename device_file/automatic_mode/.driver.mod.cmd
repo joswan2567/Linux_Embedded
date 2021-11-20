@@ -1,0 +1,1 @@
+cmd_/home/joswan/Linux_Embedded/device_file/automatic_mode/driver.mod := { echo  /home/joswan/Linux_Embedded/device_file/automatic_mode/driver.o;  echo; } > /home/joswan/Linux_Embedded/device_file/automatic_mode/driver.mod
